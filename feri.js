@@ -255,4 +255,4 @@ client.on('message', message =>{
 });
 
 
-client.login("ODkxODIzNjAzMTgyNjA0NDAw.YVD9dA.GtgU9mjMKMTlBP3wswohkZewgDs");
+client.login(process.env.token);
